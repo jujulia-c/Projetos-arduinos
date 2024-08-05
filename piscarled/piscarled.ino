@@ -8,6 +8,7 @@ void loop() {
   // put your main code here, to run repeatedly:
   digitalWrite(7, HIGH);
   delay(1000)
+//  apagar
   digitalWrite(7, LOW);
   delay(1000);
 
